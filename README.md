@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as Research Associate for Climate Adaptation Project with the concept of Co-creation in the regions.
+
 <!--
 **shiwakotisurendra/shiwakotisurendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
