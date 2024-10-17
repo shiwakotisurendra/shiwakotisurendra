@@ -1,4 +1,9 @@
 ## Hi there 👋
+[![GitHub Badge](https://img.shields.io/github/followers/pratik-tan10?style=social)](https://github.com/shiwakotisurendra?tab=followers)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@geosuren)
+[![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://shiwakotisurendra.github.io/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/geosuren)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shiwakotisurendra.github.io)
 
 - 🔭 I’m currently working as a Research Associate in Climate Adaptation Project for Cologne University of Applied Sciences with the concept of Co-creation in the region.
 
