@@ -1,4 +1,4 @@
-## Hi there 👋
+## Surendra Shiwakoti
 [![GitHub Badge](https://img.shields.io/github/followers/pratik-tan10?style=social)](https://github.com/shiwakotisurendra?tab=followers)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@geosuren)
 [![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://shiwakotisurendra.github.io/)
