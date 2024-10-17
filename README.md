@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as Research Associate for Climate Adaptation Project with the concept of Co-creation in the regions.
+- 🔭 I’m currently working as Research Associate for Climate Adaptation Project in Cologne University of Applied Sciences with the concept of Co-creation in the region.
 
 <!--
 **shiwakotisurendra/shiwakotisurendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
