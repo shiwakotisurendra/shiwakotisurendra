@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/geosuren)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shiwakotisurendra.github.io)
 
-- 🔭 I am a Geomatics Engineer and MSc. Geoinformatics graduate from University of Muenster, Germany. I’m currently working as a Full-time Research Associate in Climate Adaptation Project for Cologne University of Applied Sciences, Germany with the concept of Co-creation in the region. I contribute to the web-based geodata management/web-GIS development as well spatial analysis using open source programming tools and GIS platforms. 
+- 🔭 I am a Geomatics Engineer and MSc. Geoinformatics graduate from University of Muenster, Germany. I’m currently working as a Full-time Research Associate in Climate Adaptation Project for Cologne University of Applied Sciences, Germany with the concept of Co-creation in the region. I contribute to web-based geodata management/web-GIS development as well spatial analysis using open source programming tools and GIS platforms. 
 
 <!--
 **shiwakotisurendra/shiwakotisurendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
